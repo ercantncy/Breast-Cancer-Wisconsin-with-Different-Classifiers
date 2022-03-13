@@ -4,7 +4,9 @@ Comparative Analysis of Different Classifiers for the Wisconsin Breast Cancer Da
 Breast Cancer Diagnostic - Classification
 
 Table of Content
+
 Objectives
+
 Importing packages and loading data
 Data cleaning and data wrangling
 Exploratory Data Analysis (EDA)
