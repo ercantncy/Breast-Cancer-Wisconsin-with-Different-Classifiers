@@ -4,6 +4,7 @@ Comparative Analysis of Different Classifiers for the Wisconsin Breast Cancer Da
 Breast Cancer Diagnostic - Classification
 
 Objectives:
+
  Test performance of different classification models:
 
 k-nearest neighbors (k-NN) (%96)
