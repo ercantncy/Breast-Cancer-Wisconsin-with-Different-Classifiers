@@ -3,7 +3,7 @@ Comparative Analysis of Different Classifiers for the Wisconsin Breast Cancer Da
 
 Breast Cancer Diagnostic - Classification
 
-Objectives:
+**Objectives:**
 
  Test performance of different classification models:
 
