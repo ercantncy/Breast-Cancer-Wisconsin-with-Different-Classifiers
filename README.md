@@ -5,17 +5,20 @@ Breast Cancer Diagnostic - Classification
 
 Table of Content
 
-Objectives
+-Objectives
 
-Importing packages and loading data
-Data cleaning and data wrangling
-Exploratory Data Analysis (EDA)
+-Importing packages and loading data
+
+-Data cleaning and data wrangling
+
+-Exploratory Data Analysis (EDA)
+
 Boxplot of features by diagnosis
 Violin plot of features by diagnosis
 Correlation
-Statistical inference
-Hypothesis testing
+
 Machine Learning: Classification models
+
 Spliting the data: train and test
 k-nearest neighbors (k-NN)
 Support Vector Classification
