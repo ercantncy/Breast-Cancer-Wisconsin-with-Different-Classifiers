@@ -4,9 +4,7 @@ Comparative Analysis of Different Classifiers for the Wisconsin Breast Cancer Da
 Breast Cancer Diagnostic - Classification
 
 Objectives:
-1) Determine which features of data (measurements) are most important for diagnosing breast cancer.
-
-2) Test performance of different classification models:
+ Test performance of different classification models:
 
 k-nearest neighbors (k-NN) (%96)
 
